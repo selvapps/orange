@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-21T06:41:08 IST" name="Default suite" finished-at="2023-01-21T06:41:45 IST" duration-ms="36710">
+    <groups>
+    </groups>
+    <test started-at="2023-01-21T06:41:08 IST" name="Default test" finished-at="2023-01-21T06:41:45 IST" duration-ms="36710">
+      <class name="com.orange_project.Pom_Runnerclass">
+        <test-method is-config="true" signature="desiredOptions()[pri:0, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:08 IST" name="desiredOptions" finished-at="2023-01-21T06:41:08 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desiredOptions -->
+        <test-method signature="browserLaunch()[pri:0, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:08 IST" name="browserLaunch" finished-at="2023-01-21T06:41:21 IST" duration-ms="12529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="getUserId()[pri:1, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:21 IST" name="getUserId" finished-at="2023-01-21T06:41:24 IST" duration-ms="3125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserId -->
+        <test-method signature="getPassword()[pri:2, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:24 IST" name="getPassword" finished-at="2023-01-21T06:41:30 IST" duration-ms="6053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPassword -->
+        <test-method signature="passingUserId()[pri:3, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:30 IST" name="passingUserId" finished-at="2023-01-21T06:41:36 IST" duration-ms="6182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passingUserId -->
+        <test-method signature="passPassword()[pri:4, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:36 IST" name="passPassword" finished-at="2023-01-21T06:41:39 IST" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passPassword -->
+        <test-method is-config="true" signature="submit()[pri:0, instance:com.orange_project.Pom_Runnerclass@51e69659]" started-at="2023-01-21T06:41:39 IST" name="submit" finished-at="2023-01-21T06:41:45 IST" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- com.orange_project.Pom_Runnerclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
